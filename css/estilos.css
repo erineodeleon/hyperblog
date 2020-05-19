@@ -6,9 +6,17 @@ body {
 
 .caja {
     border: 1px solid coral;
+    background-color: darkgreen;
+    border-radius: 1px;
+    border-width: 10px;
+    border-right: darkgrey;
 }
 
 .h1 {
     color: darkcyan;
     center
+}
+
+.bomba {
+    border: 1px solid;
 }
